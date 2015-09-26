@@ -2,4 +2,4 @@
 
 Package Control.merged-ca-bundle
 Package Control.system-ca-bundle
-/PackageControl.cache*
+PackageControl.cache/*

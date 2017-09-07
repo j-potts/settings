@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="cmx_mongodb_config" type="PLAIN_TEXT" />
+      <mapping pattern="cmx_mongodb_credentials" type="PLAIN_TEXT" />
+      <mapping pattern="sdfsf" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="cql" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
